@@ -1,3 +1,8 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 Why do you think he might do that to his wife? He is just doing the same thing everyday, I hope he is good and excellent! 
 > Hello what are you talking about?
 
